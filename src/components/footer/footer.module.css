@@ -1,0 +1,15 @@
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    height:100px;
+}
+
+.title{
+    font-size: 14px;
+    color:grey;
+}
+.description{
+    font-size: 10px;
+    color:grey;
+}
